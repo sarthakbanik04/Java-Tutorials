@@ -1,2 +1,6 @@
 line1 : Hello 
+<<<<<<< Updated upstream
 line2: feature-edit
+=======
+line 3 message
+>>>>>>> Stashed changes
